@@ -1,0 +1,13 @@
+name: iit414w-f1-strategy
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - pandas==2.1.4
+      - numpy==1.26.4
+      - matplotlib==3.8.2
+      - scikit-learn==1.4.0
+      - notebook==7.1.2
+      - ipykernel==6.29.3
