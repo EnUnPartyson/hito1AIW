@@ -4,7 +4,7 @@ Team:    Ariel Van Kilsdonk & David Hernandez
 Course:  IIT414W — Artificial Intelligence Workshop · 2026-1T  
 Date:    May 17, 2026  
 Repo:    https://github.com/davidhu12345/hito1AIW  
-Commit:  e314683
+Commit:  e4ed320
 
 ---
 
